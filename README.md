@@ -4,11 +4,13 @@
 
  ☆ UI/UX, Marketing and Brand identity graphic designer. <br/>
  ☆ View my design [portfolio](https://www.behance.net/desnibga). <br/>
- ☆ Ocean Engineering and Meteorology Student at Florida Institute of Technology. <br/>
-    ⤷ robotics and remote sensing technologies including radar, satellites, and underwater vehicles.
+ ☆ Ocean Engineering and Meteorology Student @ Florida Institute of Technology. <br/>
+    ⤷ robotics, remote sensing technologies, radar, satellites, and underwater vehicles.
 
+### What I do: 
  ☆ Learning more about tech and coding. <br/>
- ☆ Interested in front end design and data visulation. <br/> 
+ ☆ Interested in front end design (HTML/CSS, UI Systems) and data visulation. <br/> 
+ ☆ Remote Sensing Projects (weather, radar, underwater). <br/>
  ☆ Currently learning: Data analytics and 3d modeling. <br/>
 
 ## Socials:
