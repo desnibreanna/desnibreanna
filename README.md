@@ -2,9 +2,11 @@
 
 ## Hello traveler, I'm Desni Breanna !!
 
+ ☆ Aspiring Avionics Tech! 
  ☆ UI/UX, Marketing and Brand identity graphic designer. <br/>
  ☆ View my design [portfolio](https://www.behance.net/desnibga). <br/>
- ☆ Ocean Engineering and Meteorology Student @ Florida Institute of Technology. <br/>
+ ☆  Engineering and Aviation Meteorology Student @ 
+ <br/>
     ⤷ robotics, remote sensing technologies, radar, satellites, and underwater vehicles.
 
 ### What I do: 
