@@ -2,17 +2,15 @@
 
 ## Hello traveler, I'm Desni Breanna !!
 
- ☆ Aspiring Avionics Tech! 
+ ☆ Aspiring electronics tech! <br/>
  ☆ UI/UX, Marketing and Brand identity graphic designer. <br/>
  ☆ View my design [portfolio](https://www.behance.net/desnibga). <br/>
- ☆  Engineering and Aviation Meteorology Student @ 
+ ☆ Mechanical Engineering Student  
  <br/>
     ⤷ robotics, remote sensing technologies, radar, and satellites.
 
 ### What I do: 
  ☆ Learning more about tech and coding. <br/>
- ☆ Interested in front end design (HTML/CSS, UI Systems) and data visulation. <br/> 
- ☆ Remote Sensing Projects <br/>
  ☆ Currently learning: building with arduino and 3d modeling. <br/>
 
 ## Socials:
