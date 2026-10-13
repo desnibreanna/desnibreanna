@@ -3,11 +3,12 @@
 ## Hello traveler, I'm Desni Breanna !!
 
  ☆ Aspiring electronics tech! <br/>
- ☆ UI/UX, Marketing and Brand identity graphic designer. <br/>
- ☆ View my design [portfolio](https://www.behance.net/desnibga). <br/>
- ☆ Mechanical Engineering Student  
+  ☆ Mechanical Engineering Student  
  <br/>
-    ⤷ robotics, remote sensing technologies, radar, and satellites.
+    ⤷ robotics, remote sensing technologies, radar, and satellites.<br/>
+ ☆ UI/UX, Marketing and Brand identity graphic designer. <br/>
+    ⤷ View my design [portfolio](https://www.behance.net/desnibga). <br/>
+
 
 ### What I do: 
  ☆ Learning more about tech and coding. <br/>
