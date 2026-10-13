@@ -4,8 +4,7 @@
 
  ☆ Aspiring electronics tech! <br/>
   ☆ Mechanical Engineering Student  
- <br/>
-    ⤷ robotics, remote sensing technologies, radar, and satellites.<br/>
+ <br/> ⤷ robotics, remote sensing technologies, radar, and satellites.<br/>
  ☆ UI/UX, Marketing and Brand identity graphic designer. <br/>
     ⤷ View my design [portfolio](https://www.behance.net/desnibga). <br/>
 
