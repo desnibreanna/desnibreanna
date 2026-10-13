@@ -7,13 +7,13 @@
  ☆ View my design [portfolio](https://www.behance.net/desnibga). <br/>
  ☆  Engineering and Aviation Meteorology Student @ 
  <br/>
-    ⤷ robotics, remote sensing technologies, radar, satellites, and underwater vehicles.
+    ⤷ robotics, remote sensing technologies, radar, and satellites.
 
 ### What I do: 
  ☆ Learning more about tech and coding. <br/>
  ☆ Interested in front end design (HTML/CSS, UI Systems) and data visulation. <br/> 
- ☆ Remote Sensing Projects (weather, radar, underwater). <br/>
- ☆ Currently learning: Data analytics and 3d modeling. <br/>
+ ☆ Remote Sensing Projects <br/>
+ ☆ Currently learning: building with arduino and 3d modeling. <br/>
 
 ## Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/desnibga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/desnibga) 
