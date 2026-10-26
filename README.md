@@ -13,7 +13,7 @@
 
 ### What I do: 
  ☆ Learning more about tech and coding. <br/>
- ☆ Currently learning: building with arduino and ESP32 and #D modeling. <br/>
+ ☆ Currently learning: building with arduino and ESP32 and 3D modeling. <br/>
 
 ## Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/desnibga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/desnibga) 
