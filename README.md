@@ -2,7 +2,7 @@
 
 ## Hello traveler, I'm Desni Breanna !!
 
- ☆ Aspiring electronics technician! <br/>
+ ☆ Electronics technician! <br/>
  ☆ Mechanical Engineering Student   <br/> 
   ⤷ robotics, remote sensing technologies, radar, and satellites.<br/>
   <br/>
