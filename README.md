@@ -4,7 +4,7 @@
 
  ☆ Electronics technician! <br/>
  ☆ Mechanical Engineering Student   <br/> 
-  ⤷ robotics, remote sensing technologies, radar, and satellites.<br/>
+  ⤷ electronics, robotics, remote sensing technologies, radar, and satellites.<br/>
   <br/>
  ☆ Tinkering and redesigning products with 3D Printing!<br/>
  ☆ UI/UX, Marketing and Brand identity graphic designer. <br/>
